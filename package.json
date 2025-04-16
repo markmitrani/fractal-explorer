@@ -1,0 +1,21 @@
+{
+    "name": "consciousness-fractal-visualizer",
+    "version": "1.0.0",
+    "description": "A UX design project to visualize the fractal unfolding process",
+    "main": "script.js",
+    "scripts": {
+      "start": "lite-server",
+      "build": "tsc"
+    },
+    "keywords": [
+      "consciousness",
+      "visualization",
+      "ux",
+      "design"
+    ],
+    "devDependencies": {
+      "lite-server": "^2.6.1",
+      "typescript": "^4.9.5"
+    }
+  }
+  
